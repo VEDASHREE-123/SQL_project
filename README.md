@@ -142,7 +142,7 @@ CREATE TABLE zepto (
 
 
 
-💼 LinkedIn: [Amlan Mohanty](https://www.linkedin.com/in/amlanmohanty1/)
+💼 LinkedIn: [Vedashree KA](https://www.linkedin.com/in/vedashree-ka-489a7434b/)
 - Let’s connect professionally and grow your data career
 
 
